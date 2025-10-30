@@ -59,6 +59,7 @@
   <!-- End Google Tag Manager -->
 <meta http-equiv="origin-trial" content="A7JYkbIvWKmS8mWYjXO12SIIsfPdI7twY91Y3LWOV/YbZmN1ZhYv8O+Zs6/IPCfBE99aV9tIC8sWZSCN09vf7gkAAACWeyJvcmlnaW4iOiJodHRwczovL2N0LnBpbnRlcmVzdC5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZzIiLCJleHBpcnkiOjE3NDIzNDIzOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/62/12c/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/62/12c/util.js"></script></head>
 
+<!-- Sidebar -->
 <body class="index-page sidebar-collapse"><div id="ofBar"><div id="ofBar-logo"> <img alt="creative-tim-logo" src="https://s3.amazonaws.com/creativetim_bucket/static-assets/logo-ct-black.png"></div><div id="ofBar-content">🔥 Be Strong in 2025: <b>Unlock the All-Access Pass – 80% OFF</b>! ❤️ Don't Miss Out!</div><div id="ofBar-right"><a href="https://www.creative-tim.com/campaign?ref=ct-demos" target="_blank" id="btn-bar">View Offer</a><a id="close-bar">×</a></div></div>
   <nav class="navbar navbar-color-on-scroll fixed-top navbar-expand-lg" color-on-scroll="100" id="sectionsNav">
     <div class="container">
@@ -116,6 +117,7 @@
       </div>
     </div>
   </nav>
+  <!-- Header-->
   <div class="page-header header-filter clear-filter purple-filter" data-parallax="true" style="background-image: url(&quot;./assets/img/bg2.jpg&quot;); transform: translate3d(0px, 933.333px, 0px);">
     <div class="container">
       <div class="row">
@@ -1405,7 +1407,7 @@
       </div>
     </div>
   </div>
-  <!--  End Modal -->
+  <!--  Footer -->
   <footer class="footer" data-background-color="black">
     <div class="container">
       <nav class="float-left">
